@@ -6,8 +6,8 @@ A robust, enterprise-grade Full-Stack Hotel Room Booking Application built with 
 
 ## 🚀 Live Deployment & Links
 
-- **Live Frontend Application (Vercel):** [https://room-booking-system-self.vercel.app](https://room-booking-system-self.vercel.app) *(or your deployed Vercel domain)*
-- **API Health Check Endpoint:** `https://<deployed-domain>/api/health`
+- **Live Frontend Application (Vercel):** [https://room-booking-system-psi.vercel.app](https://room-booking-system-psi.vercel.app)
+- **API Health Check Endpoint:** [https://room-booking-system-psi.vercel.app/api/health](https://room-booking-system-psi.vercel.app/api/health)
 - **GitHub Repository:** [https://github.com/aravindbala03112003/room-booking-system](https://github.com/aravindbala03112003/room-booking-system)
 
 ---
