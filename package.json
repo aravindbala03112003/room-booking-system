@@ -1,0 +1,22 @@
+{
+  "name": "hotel-room-booking-system",
+  "version": "1.0.0",
+  "description": "Full-Stack Hotel Room Booking System with React, Express, and PostgreSQL",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "seed": "cd backend && npm run seed",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start": "node backend/src/server.js",
+    "test": "node backend/test/test-runner.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.13.1"
+  }
+}
